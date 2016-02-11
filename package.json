@@ -1,0 +1,16 @@
+{
+  "name" : "replacer-loader",
+  "description" : "Load replacement files for webpack",
+  "version" : "0.1.0",
+  "author" : {
+    "name" : "Seoyeon Lee",
+    "email" : "i@ssen.name",
+    "url" : "https://iamssen.github.io"
+  },
+  "license" : "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/iamssen/replacer-loader.git"
+  },
+  "main" : "dist/index.js"
+}
